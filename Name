@@ -1,0 +1,3 @@
+print('Hi there, what is your name?')
+yourname = input('Please enter your name''\n')
+print('Hello''\n', yourname,'\n''How are you?')
