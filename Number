@@ -1,0 +1,3 @@
+mynumber1 = int(input('Please enter the first number '))
+mynumber2 = int(input('Please enter the second number '))
+print('Your answer is', mynumber1 + mynumber2)
